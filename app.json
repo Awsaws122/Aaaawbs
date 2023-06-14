@@ -2,13 +2,13 @@
     "name": "تيم ‌🇦‌🇼‌🇸",
     "description": "User bot for telegram !",
     "stack": "container",
-    "repository": "https://github.com/Mkaisksk/Tyson-",
+    "repository": "https://github.com/Awsaws122/Tyson-",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/Mkaisksk/Tyson-",
+    "website": "https://github.com/Awsaws122/Tyson-",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
